@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agent C.AI</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <!-- Login Screen -->
+    <div id="login-screen" class="screen">
+      <div class="login-container">
+        <h1><img src="images/icon.png" alt="Agent C.AI" class="logo-icon"> Agent C.AI</h1>
+        <p class="tagline">Your Personal Love Coach</p>
+        <p>Enter your name to find your matches</p>
+        <input type="text" id="name-input" placeholder="Your name..." autocomplete="off">
+        <button id="login-btn">Find Me</button>
+        <p id="login-error" class="error"></p>
+        <div id="fabian-banner" class="fabian-banner hidden">
+          💔 Sorry Fabian, there will be no matches for you today... or ever.
+        </div>
+      </div>
+    </div>
+
+    <!-- Swipe Screen -->
+    <div id="swipe-screen" class="screen hidden">
+      <header>
+        <div class="header-brand">
+          <h2><img src="images/icon.png" alt="Agent C.AI" class="logo-icon-small"> Agent C.AI</h2>
+          <span class="header-tagline">Your Personal Love Coach</span>
+        </div>
+        <div class="user-info">
+          <span id="current-user-name"></span>
+          <button id="view-likes-btn">❤️ My Likes</button>
+          <button id="logout-btn">Logout</button>
+        </div>
+      </header>
+
+      <div class="swipe-container">
+        <div id="card-stack" class="card-stack">
+          <!-- Cards will be inserted here -->
+        </div>
+        <div id="no-more-cards" class="no-more hidden">
+          <p>No more profiles to show!</p>
+          <button id="view-likes-btn-2">View Your Likes</button>
+        </div>
+      </div>
+
+      <div class="swipe-buttons">
+        <button id="swipe-left-btn" class="swipe-btn reject">✕</button>
+        <button id="swipe-right-btn" class="swipe-btn like">♥</button>
+      </div>
+    </div>
+
+    <!-- Likes Screen -->
+    <div id="likes-screen" class="screen hidden">
+      <header>
+        <button id="back-btn">← Back</button>
+        <h2>Your Likes</h2>
+      </header>
+      <div id="likes-grid" class="likes-grid">
+        <!-- Liked profiles will be shown here -->
+      </div>
+    </div>
+
+    <!-- Advice Modal -->
+    <div id="advice-modal" class="modal hidden">
+      <div class="modal-content">
+        <button id="close-modal-btn" class="close-modal">✕</button>
+        <h2>💘 Aim for the Heart</h2>
+        <h3 id="advice-target-name"></h3>
+        <p id="advice-target-info" class="advice-info"></p>
+        
+        <div id="recommendation-banner" class="recommendation-banner"></div>
+        
+        <div class="advice-section general-advice-section">
+          <h4>📋 Overall Assessment</h4>
+          <p id="general-advice-text"></p>
+        </div>
+        
+        <div class="advice-section">
+          <h4>💬 Talking Points</h4>
+          <ul id="talking-points-list"></ul>
+        </div>
+        
+        <div class="advice-section">
+          <h4>🚫 What to Avoid</h4>
+          <ul id="avoid-list"></ul>
+        </div>
+        
+        <div class="advice-section">
+          <h4>💡 Compatibility Insights</h4>
+          <ul id="compatibility-list"></ul>
+        </div>
+        
+        <div class="advice-section shared-interests">
+          <h4>🎯 Shared Interests</h4>
+          <div id="shared-interests-tags"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Feedback Summary Modal -->
+    <div id="feedback-modal" class="modal hidden">
+      <div class="modal-content feedback-modal-content">
+        <button id="close-feedback-modal-btn" class="close-modal">✕</button>
+        <h2>📊 Feedback Summary</h2>
+        <h3 id="feedback-target-name"></h3>
+        <p id="feedback-count" class="feedback-count"></p>
+        <div class="feedback-summary-box">
+          <p id="feedback-summary-text"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dashboard Modal -->
+    <div id="dashboard-modal" class="modal hidden">
+      <div class="modal-content dashboard-modal-content">
+        <button id="close-dashboard-modal-btn" class="close-modal">✕</button>
+        <h2>📊 Dating Dashboard</h2>
+        <h3 id="dashboard-target-name"></h3>
+        
+        <div class="kpi-grid">
+          <div class="kpi-card matching">
+            <div class="kpi-value" id="kpi-matching">--</div>
+            <div class="kpi-label">Match Score</div>
+          </div>
+          <div class="kpi-card feedback">
+            <div class="kpi-value" id="kpi-feedback">--</div>
+            <div class="kpi-label">Sentiment</div>
+          </div>
+          <div class="kpi-card trend">
+            <div class="kpi-value" id="kpi-trend">--</div>
+            <div class="kpi-label">Trend</div>
+          </div>
+        </div>
+        
+        <div class="score-breakdown">
+          <h4>📊 Score Breakdown</h4>
+          <div class="score-bar">
+            <span>Interests</span>
+            <div class="bar-container"><div class="bar" id="bar-interests"></div></div>
+            <span id="score-interests">0%</span>
+          </div>
+          <div class="score-bar">
+            <span>Personality</span>
+            <div class="bar-container"><div class="bar" id="bar-personality"></div></div>
+            <span id="score-personality">0%</span>
+          </div>
+          <div class="score-bar">
+            <span>Age Fit</span>
+            <div class="bar-container"><div class="bar" id="bar-age"></div></div>
+            <span id="score-age">0%</span>
+          </div>
+        </div>
+        
+        <div id="dashboard-verdict" class="dashboard-verdict hidden">
+          <div class="verdict-icon" id="verdict-icon"></div>
+          <div class="verdict-text" id="verdict-text"></div>
+        </div>
+        
+        <div id="dashboard-recommendation" class="dashboard-recommendation"></div>
+        
+        <div class="flags-container">
+          <div class="flags red-flags">
+            <h4>🚩 Red Flags</h4>
+            <ul id="red-flags-list"></ul>
+          </div>
+          <div class="flags green-flags">
+            <h4>✅ Green Flags</h4>
+            <ul id="green-flags-list"></ul>
+          </div>
+        </div>
+        
+        <div class="dashboard-actions">
+          <button id="dashboard-remove-btn" class="dashboard-action-btn remove">🗑️ Remove All Data</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
