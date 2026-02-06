@@ -1,0 +1,75 @@
+table,column,type,description
+DimProduct,product_id,string,PK
+DimProduct,product_name,string,Name
+DimProduct,brand,string,Venus/Apollo/Eros
+DimProduct,category,string,bar/praline/...
+DimProduct,flavor,string,flavor variant
+DimProduct,weight_grams,int,Net weight
+DimProduct,unit_cost,decimal,EUR
+DimProduct,unit_price,decimal,EUR
+DimProduct,launch_date,date,Launch
+DimProduct,is_limited_edition,bool,LE flag
+DimCustomer,customer_id,string,PK
+DimCustomer,first_name,string,Synthetic PII
+DimCustomer,last_name,string,Synthetic PII
+DimCustomer,email,string,Test domains by country
+DimCustomer,phone_e164,string,E.164 with country code
+DimCustomer,address_line1,string,Synthetic street & number
+DimCustomer,address_line2,string,Optional unit
+DimCustomer,postal_code,string,Country postal format
+DimCustomer,city,string,City
+DimCustomer,state_province,string,State/Province/Region
+DimCustomer,country_code,string,ISO-2 country
+DimCustomer,age_band,string,Band
+DimCustomer,preferred_language,string,I18N
+DimCustomer,loyalty_tier,string,Bronze/Silver/Gold
+DimCustomer,consent_marketing,bool,GDPR/Privacy consent (synthetic)
+DimDate,date_id,int,PK yyyymmdd
+DimDate,full_date,date,ISO
+DimDate,day,int,1-31
+DimDate,month,int,1-12
+DimDate,year,int,YYYY
+DimDate,week_number,int,0-53
+DimDate,is_holiday,bool,Valentine/Christmas
+DimDate,season,string,Season
+DimStore,store_id,string,PK
+DimStore,store_name,string,Name
+DimStore,country_code,string,ISO-2
+DimStore,state_province,string,Region
+DimStore,city,string,City
+DimStore,channel,string,Online/Retail
+DimStore,manager_name,string,Synthetic PII
+DimStore,capacity_units,int,Capacity
+DimStore,currency_code,string,ISO-4217
+DimPromotion,promotion_id,string,PK
+DimPromotion,promo_name,string,Name
+DimPromotion,start_date,date,Start
+DimPromotion,end_date,date,End
+DimPromotion,discount_percent,decimal,%
+DimPromotion,promo_channel,string,Online/Retail
+DimPromotion,promo_budget,decimal,Budget
+DimSupplier,supplier_id,string,PK
+DimSupplier,supplier_name,string,Name
+DimSupplier,contact_email,string,Test domain
+DimSupplier,phone_e164,string,Phone
+DimSupplier,country_code,string,ISO-2
+DimSupplier,lead_time_days,int,Days
+DimSupplier,quality_score,int,0-100
+FactSales,sale_id,string,PK
+FactSales,product_id,string,FK DimProduct
+FactSales,customer_id,string,FK DimCustomer
+FactSales,store_id,string,FK DimStore
+FactSales,promotion_id,string,FK DimPromotion (nullable)
+FactSales,supplier_id,string,FK DimSupplier
+FactSales,date_id,int,FK DimDate
+FactSales,quantity_sold,int,Units
+FactSales,unit_price,decimal,List price (EUR equivalent)
+FactSales,discount_amount,decimal,Discount €
+FactSales,total_amount,decimal,Net €
+FactSales,cost_amount,decimal,Cost €
+FactSales,profit_margin,decimal,profit/net
+FactSales,payment_method,string,card_token/iban_token/wallet
+FactSales,payment_token,string,Non-reversible test token
+FactSales,payment_last4,string,For card tokens
+FactSales,iban_is_test,bool,true if test IBAN token
+FactSales,created_utc,timestamp,ISO8601Z

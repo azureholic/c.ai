@@ -1,0 +1,10 @@
+supplier_id,supplier_name,contact_email,phone_e164,country_code,lead_time_days,quality_score
+SUP001,Eros Packaging SA,eros_packaging_sa@testmail.local,+6568245308,NL,10,88
+SUP002,EuroCacao GmbH,eurocacao_gmbh@testmail.local,+4674857872,IN,17,98
+SUP003,Benelux Nuts NV,benelux_nuts_nv@testmail.local,+4663117563,US,9,82
+SUP004,Andes Cacao SA,andes_cacao_sa@testmail.local,+135751337,AU,15,85
+SUP005,Andes Cacao SA,andes_cacao_sa@testmail.local,+5235329370,NO,20,84
+SUP006,Andes Cacao SA,andes_cacao_sa@testmail.local,+3979247098,SG,9,81
+SUP007,Venus Cocoa BV,venus_cocoa_bv@testmail.local,+3346765548,DK,23,78
+SUP008,Venus Cocoa BV,venus_cocoa_bv@testmail.local,+5578258725,MX,19,82
+SUP009,Andes Cacao SA,andes_cacao_sa@testmail.local,+8135939383,FR,20,92

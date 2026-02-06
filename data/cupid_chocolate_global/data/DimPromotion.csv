@@ -1,0 +1,16 @@
+promotion_id,promo_name,start_date,end_date,discount_percent,promo_channel,promo_budget
+PR001,Buy 2 Get 1,2025-08-04,2025-08-11,10,Online,17895.09
+PR002,Sweet Hearts,2025-10-13,2025-10-19,15,Retail,17394.06
+PR003,Holiday Bundle,2025-06-04,2025-06-09,25,Retail,9520.5
+PR004,Valentine Special,2025-12-03,2025-12-16,10,Online,36550.71
+PR005,Holiday Bundle,2025-09-16,2025-09-28,10,Online,18491.59
+PR006,Valentine Special,2025-03-03,2025-03-17,15,Online,16733.22
+PR007,Weekend Flash,2025-04-08,2025-04-13,30,Retail,41438.49
+PR008,Buy 2 Get 1,2025-11-11,2025-11-16,10,Online,20575.7
+PR009,Weekend Flash,2025-02-01,2025-02-11,25,Retail,47157.38
+PR010,Midweek Treat,2025-12-17,2025-12-23,25,Online,35683.76
+PR011,Buy 2 Get 1,2025-02-15,2025-02-26,25,Online,4498.28
+PR012,Singles Day,2025-05-06,2025-05-11,10,Retail,11802.7
+PR013,Sweet Hearts,2025-10-29,2025-11-05,30,Online,45957.27
+PR014,Singles Day,2025-02-21,2025-03-06,15,Online,25012.92
+PR015,Valentine Special,2025-07-31,2025-08-08,20,Online,37826.59

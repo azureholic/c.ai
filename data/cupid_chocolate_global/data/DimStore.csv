@@ -1,0 +1,201 @@
+store_id,store_name,country_code,state_province,city,channel,manager_name,capacity_units,currency_code
+S0001,Venus Boutique #1,MX,CMX,Guadalajara,Online,Hiro Smith,3134,MXN
+S0002,Apollo Shop #2,SG,SG,Singapore,Retail,Noa Lefevre,4128,SGD
+S0003,Sweet Spot #3,FR,PAC,Bordeaux,Retail,Noa Smith,6116,EUR
+S0004,Sweet Spot #4,PL,MZ,Katowice,Online,Milan Patel,3643,PLN
+S0005,Apollo Shop #5,CA,QC,Toronto,Retail,Milan García,1724,CAD
+S0006,Eros Corner #6,DE,BE,Berlin,Online,Noah Lefevre,6779,EUR
+S0007,Venus Boutique #7,IN,MH,Mumbai,Online,Léa Smith,6195,INR
+S0008,Sweet Spot #8,FR,PAC,Bordeaux,Online,Liam Rossi,5160,EUR
+S0009,Cupid Outlet #9,FR,PAC,Marseille,Online,Amir Dubois,7644,EUR
+S0010,Venus Boutique #10,JP,KN,Tokyo,Retail,Liam García,4461,JPY
+S0011,Apollo Shop #11,BR,SP,São Paulo,Retail,Noah Patel,5941,BRL
+S0012,Sweet Spot #12,IT,LOM,Milan,Retail,Giulia Müller,3792,EUR
+S0013,Cupid Outlet #13,SE,STH,Stockholm,Retail,Lucas Santos,7067,SEK
+S0014,Eros Corner #14,US,IL,New York,Online,Yui Bakker,5628,USD
+S0015,ChocoHub #15,NO,VIK,Oslo,Retail,Liam Müller,7987,NOK
+S0016,Venus Boutique #16,US,CA,San Francisco,Retail,Léa García,5500,USD
+S0017,ChocoHub #17,IT,TOS,Rome,Online,Leah Dubois,6642,EUR
+S0018,Apollo Shop #18,ES,MD,Barcelona,Online,Wei Johnson,2249,EUR
+S0019,Apollo Shop #19,GB,SCT,Manchester,Online,Chloé Rossi,4404,GBP
+S0020,Apollo Shop #20,SG,SG,Singapore,Online,Santiago Kowalski,7385,SGD
+S0021,Sweet Spot #21,NL,Zuid-Holland,Amsterdam,Online,Santiago Williams,2469,EUR
+S0022,Venus Boutique #22,FR,NAQ,Marseille,Online,Santiago Zhang,3363,EUR
+S0023,Venus Boutique #23,US,TX,San Francisco,Online,Amir Lefevre,7914,USD
+S0024,Apollo Shop #24,MX,JAL,Guadalajara,Online,Mei Zhang,3927,MXN
+S0025,Cupid Outlet #25,IN,TN,Delhi,Retail,Yui Johnson,6442,INR
+S0026,Venus Boutique #26,CA,BC,Montréal,Retail,Lucas Johnson,6132,CAD
+S0027,Venus Boutique #27,FR,IDF,Bordeaux,Online,Léa Suzuki,4775,EUR
+S0028,Eros Corner #28,CA,AB,Montréal,Online,Léa Bakker,6100,CAD
+S0029,Eros Corner #29,JP,KN,Tokyo,Online,Hiro Lefevre,5856,JPY
+S0030,Sweet Spot #30,SG,SG,Singapore,Retail,Yui Johnson,1286,SGD
+S0031,Cupid Outlet #31,SE,STH,Gothenburg,Online,Isha Nowak,6026,SEK
+S0032,Venus Boutique #32,FR,NAQ,Paris,Online,Emma Rossi,2018,EUR
+S0033,Sweet Spot #33,SE,STH,Stockholm,Retail,Sofía Zhang,1040,SEK
+S0034,Apollo Shop #34,BR,RJ,São Paulo,Online,Giulia Williams,570,BRL
+S0035,Cupid Outlet #35,SE,STH,Gothenburg,Retail,Amir Rossi,2006,SEK
+S0036,Cupid Outlet #36,IT,LOM,Rome,Retail,Wei Suzuki,679,EUR
+S0037,Cupid Outlet #37,CA,AB,Calgary,Online,Léa Williams,7120,CAD
+S0038,Venus Boutique #38,ZA,GP,Johannesburg,Online,Fleur Williams,2173,ZAR
+S0039,Sweet Spot #39,DK,M,Aarhus,Retail,Liam Romano,3518,DKK
+S0040,Apollo Shop #40,IN,MH,Mumbai,Online,Isha Zhang,5814,INR
+S0041,Apollo Shop #41,NL,Zuid-Holland,Utrecht,Online,Emma Dubois,2246,EUR
+S0042,Eros Corner #42,AU,QLD,Melbourne,Online,Chloé Smith,4114,AUD
+S0043,Apollo Shop #43,PL,MZ,Warsaw,Online,Liam Santos,7692,PLN
+S0044,Sweet Spot #44,JP,KN,Yokohama,Online,Noah Tanaka,7817,JPY
+S0045,Apollo Shop #45,BR,MG,São Paulo,Online,Liam Johnson,7946,BRL
+S0046,Sweet Spot #46,ZA,GP,Durban,Online,Aarav Wang,4141,ZAR
+S0047,ChocoHub #47,DE,HE,Cologne,Online,Noah Lefevre,7421,EUR
+S0048,Apollo Shop #48,PL,SL,Warsaw,Online,Zoë Santos,3880,PLN
+S0049,ChocoHub #49,AU,VIC,Sydney,Online,Hiro Kowalski,7906,AUD
+S0050,Cupid Outlet #50,ZA,KZN,Durban,Online,Zoë Johnson,6482,ZAR
+S0051,Apollo Shop #51,FR,PAC,Bordeaux,Online,Sofía Tanaka,6180,EUR
+S0052,ChocoHub #52,PL,MZ,Warsaw,Online,Olivia Patel,1270,PLN
+S0053,Venus Boutique #53,SG,SG,Singapore,Online,Zoë Wang,1360,SGD
+S0054,Apollo Shop #54,JP,TK,Yokohama,Retail,Mateo Johnson,5525,JPY
+S0055,ChocoHub #55,CN,SH,Beijing,Online,Hiro Rossi,1786,CNY
+S0056,Cupid Outlet #56,ZA,WC,Durban,Retail,Hiro Romano,4060,ZAR
+S0057,ChocoHub #57,ES,CT,Sevilla,Online,Santiago Brown,4120,EUR
+S0058,ChocoHub #58,SG,SG,Singapore,Retail,Liam Dubois,6904,SGD
+S0059,Venus Boutique #59,SE,VGR,Gothenburg,Retail,Milan Lefevre,7943,SEK
+S0060,Apollo Shop #60,SG,SG,Singapore,Retail,Hiro Silva,2008,SGD
+S0061,Sweet Spot #61,US,CA,Seattle,Online,Lucas Suzuki,5289,USD
+S0062,ChocoHub #62,CA,ON,Montréal,Retail,Zoë Lefevre,6278,CAD
+S0063,Eros Corner #63,DK,H,Copenhagen,Online,Santiago Brown,1462,DKK
+S0064,ChocoHub #64,DE,NW,Frankfurt,Online,Noah Nowak,7708,EUR
+S0065,Eros Corner #65,SE,VGR,Stockholm,Retail,Santiago De Vries,7908,SEK
+S0066,Apollo Shop #66,US,NY,Austin,Retail,Isha Smith,5083,USD
+S0067,Apollo Shop #67,JP,TK,Osaka,Retail,Liam Patel,3896,JPY
+S0068,Apollo Shop #68,JP,OS,Osaka,Retail,Isha Silva,5745,JPY
+S0069,Sweet Spot #69,IN,KA,Chennai,Online,Chloé Tanaka,1013,INR
+S0070,Venus Boutique #70,AU,QLD,Melbourne,Retail,Sven Smith,3208,AUD
+S0071,Venus Boutique #71,CA,ON,Montréal,Online,Emma Müller,1305,CAD
+S0072,ChocoHub #72,BR,MG,Belo Horizonte,Retail,Sofía Kowalski,4218,BRL
+S0073,Apollo Shop #73,GB,ENG,Cardiff,Online,Noah Romano,4644,GBP
+S0074,Eros Corner #74,CN,GD,Shanghai,Retail,Sven Silva,2029,CNY
+S0075,Eros Corner #75,SE,VGR,Gothenburg,Retail,Milan Kowalski,1267,SEK
+S0076,Apollo Shop #76,SG,SG,Singapore,Retail,Léa Zhang,3106,SGD
+S0077,ChocoHub #77,FR,NAQ,Paris,Retail,Isha Johnson,6644,EUR
+S0078,Cupid Outlet #78,GB,ENG,Cardiff,Retail,Isha Dubois,2867,GBP
+S0079,Venus Boutique #79,US,IL,New York,Online,Olivia Wang,1458,USD
+S0080,Apollo Shop #80,PL,MZ,Warsaw,Retail,Chloé Smith,5317,PLN
+S0081,Venus Boutique #81,JP,KN,Osaka,Retail,Mei Bakker,5200,JPY
+S0082,Cupid Outlet #82,US,TX,New York,Retail,Hiro Müller,3824,USD
+S0083,ChocoHub #83,AU,NSW,Brisbane,Retail,Yui Bakker,2156,AUD
+S0084,Cupid Outlet #84,MX,CMX,Guadalajara,Retail,Milan Kowalski,5484,MXN
+S0085,Apollo Shop #85,AU,QLD,Melbourne,Online,Liam Schmidt,6345,AUD
+S0086,Eros Corner #86,SG,SG,Singapore,Online,Chloé Johnson,3990,SGD
+S0087,Apollo Shop #87,US,CA,San Francisco,Retail,Fleur Romano,7266,USD
+S0088,Eros Corner #88,MX,JAL,Monterrey,Online,Olivia Patel,1703,MXN
+S0089,Venus Boutique #89,IT,LAZ,Rome,Retail,Olivia Rossi,4460,EUR
+S0090,Eros Corner #90,IT,LOM,Florence,Retail,Hiro De Vries,2926,EUR
+S0091,ChocoHub #91,SG,SG,Singapore,Online,Mei Williams,5916,SGD
+S0092,Sweet Spot #92,CN,SH,Shanghai,Online,Olivia Dubois,5829,CNY
+S0093,Sweet Spot #93,DE,BY,Berlin,Online,Mateo Santos,5327,EUR
+S0094,Cupid Outlet #94,US,IL,Seattle,Online,Wei Zhang,2560,USD
+S0095,Sweet Spot #95,NL,Zuid-Holland,Utrecht,Retail,Olivia Brown,2372,EUR
+S0096,Cupid Outlet #96,BR,SP,Rio de Janeiro,Retail,Amir Jansen,3277,BRL
+S0097,Venus Boutique #97,ES,CT,Madrid,Retail,Wei Patel,2100,EUR
+S0098,Apollo Shop #98,PL,MZ,Katowice,Online,Fleur Patel,5925,PLN
+S0099,Eros Corner #99,NL,Noord-Holland,Rotterdam,Retail,Fleur Lefevre,4372,EUR
+S0100,Eros Corner #100,PL,SL,Warsaw,Retail,Yui Silva,831,PLN
+S0101,Sweet Spot #101,NO,OSL,Oslo,Online,Isha Suzuki,2198,NOK
+S0102,Eros Corner #102,ES,CT,Barcelona,Online,Yui Sharma,6482,EUR
+S0103,Apollo Shop #103,IT,LAZ,Milan,Retail,Lucas Romano,7622,EUR
+S0104,Cupid Outlet #104,BR,MG,Rio de Janeiro,Retail,Léa Williams,2336,BRL
+S0105,Venus Boutique #105,NO,VIK,Bergen,Retail,Milan Smith,4457,NOK
+S0106,ChocoHub #106,CN,BJ,Guangzhou,Retail,Giulia Sharma,3057,CNY
+S0107,Cupid Outlet #107,ES,AN,Barcelona,Retail,Aarav Patel,6102,EUR
+S0108,Sweet Spot #108,CN,BJ,Shanghai,Online,Léa Kowalski,6949,CNY
+S0109,Venus Boutique #109,SE,VGR,Gothenburg,Online,Liam Patel,7477,SEK
+S0110,Eros Corner #110,CA,AB,Toronto,Retail,Leah Wang,2376,CAD
+S0111,ChocoHub #111,GB,SCT,Edinburgh,Online,Lucas Santos,692,GBP
+S0112,Eros Corner #112,SE,VGR,Gothenburg,Online,Aarav Fernández,6479,SEK
+S0113,ChocoHub #113,CA,ON,Toronto,Retail,Mateo Patel,1279,CAD
+S0114,Apollo Shop #114,SE,STH,Stockholm,Retail,Hiro Brown,6076,SEK
+S0115,Apollo Shop #115,IN,MH,Mumbai,Online,Olivia Rossi,1240,INR
+S0116,ChocoHub #116,AU,NSW,Brisbane,Retail,Mateo Lefevre,5430,AUD
+S0117,Venus Boutique #117,NO,OSL,Bergen,Retail,Emma Zhang,7620,NOK
+S0118,Eros Corner #118,NO,VIK,Oslo,Online,Giulia Müller,1012,NOK
+S0119,ChocoHub #119,IT,TOS,Milan,Online,Mei Zhang,3762,EUR
+S0120,Apollo Shop #120,SG,SG,Singapore,Retail,Zoë Suzuki,4194,SGD
+S0121,Apollo Shop #121,FR,IDF,Bordeaux,Retail,Noa García,4642,EUR
+S0122,Sweet Spot #122,CA,ON,Calgary,Retail,Noa Silva,1018,CAD
+S0123,Sweet Spot #123,ZA,WC,Cape Town,Online,Leah Jansen,2016,ZAR
+S0124,Cupid Outlet #124,PL,MZ,Warsaw,Retail,Sofía Fernández,4181,PLN
+S0125,Apollo Shop #125,CN,GD,Guangzhou,Online,Chloé Kowalski,7048,CNY
+S0126,Sweet Spot #126,BR,RJ,São Paulo,Online,Isha Romano,7597,BRL
+S0127,Apollo Shop #127,GB,WLS,Cardiff,Online,Milan Zhang,711,GBP
+S0128,Apollo Shop #128,CN,SH,Shanghai,Online,Hiro Nowak,1664,CNY
+S0129,Eros Corner #129,FR,NAQ,Marseille,Retail,Santiago Suzuki,877,EUR
+S0130,ChocoHub #130,NL,Zuid-Holland,Utrecht,Online,Mateo Smith,6916,EUR
+S0131,Eros Corner #131,NL,Noord-Holland,Amsterdam,Online,Mei García,5740,EUR
+S0132,Venus Boutique #132,NL,Zuid-Holland,Amsterdam,Online,Lucas Lefevre,2030,EUR
+S0133,Sweet Spot #133,FR,PAC,Bordeaux,Retail,Chloé Santos,1606,EUR
+S0134,Venus Boutique #134,AU,NSW,Brisbane,Retail,Yui Jansen,2331,AUD
+S0135,Sweet Spot #135,CN,SH,Beijing,Retail,Léa Patel,3403,CNY
+S0136,Sweet Spot #136,MX,NLE,Ciudad de México,Retail,Mateo Dubois,1615,MXN
+S0137,Sweet Spot #137,CA,BC,Toronto,Retail,Sofía Nowak,6731,CAD
+S0138,Sweet Spot #138,IT,TOS,Milan,Online,Santiago Smith,4167,EUR
+S0139,ChocoHub #139,US,NY,Seattle,Retail,Milan Romano,709,USD
+S0140,Cupid Outlet #140,ES,AN,Barcelona,Online,Isha Tanaka,4253,EUR
+S0141,Venus Boutique #141,DK,H,Copenhagen,Retail,Amir Silva,6750,DKK
+S0142,Apollo Shop #142,FR,NAQ,Paris,Online,Yui De Vries,3023,EUR
+S0143,Eros Corner #143,SE,STH,Gothenburg,Online,Olivia Wang,6421,SEK
+S0144,Cupid Outlet #144,NO,VIK,Bergen,Online,Léa Johnson,2185,NOK
+S0145,Apollo Shop #145,MX,NLE,Monterrey,Online,Yui Smith,5895,MXN
+S0146,Sweet Spot #146,SG,SG,Singapore,Retail,Lucas Patel,2018,SGD
+S0147,Venus Boutique #147,NL,Zuid-Holland,Utrecht,Online,Sofía Tanaka,6191,EUR
+S0148,Venus Boutique #148,ES,CT,Madrid,Retail,Lucas Nowak,5352,EUR
+S0149,Venus Boutique #149,IT,TOS,Milan,Retail,Giulia Suzuki,6862,EUR
+S0150,Sweet Spot #150,FR,IDF,Paris,Retail,Amir Fernández,3789,EUR
+S0151,Venus Boutique #151,AU,QLD,Brisbane,Retail,Wei Wang,1609,AUD
+S0152,Sweet Spot #152,MX,JAL,Ciudad de México,Online,Leah Zhang,5341,MXN
+S0153,Sweet Spot #153,DE,HE,Frankfurt,Retail,Lucas Schmidt,7907,EUR
+S0154,ChocoHub #154,BR,MG,Rio de Janeiro,Retail,Hiro García,6027,BRL
+S0155,Sweet Spot #155,ZA,GP,Johannesburg,Online,Mateo De Vries,6168,ZAR
+S0156,Venus Boutique #156,IT,TOS,Rome,Retail,Léa Brown,5190,EUR
+S0157,Eros Corner #157,ES,CT,Barcelona,Online,Noa Bakker,6646,EUR
+S0158,Sweet Spot #158,NO,VIK,Oslo,Retail,Chloé De Vries,7586,NOK
+S0159,Cupid Outlet #159,PL,SL,Katowice,Retail,Mateo García,7856,PLN
+S0160,Apollo Shop #160,FR,PAC,Bordeaux,Retail,Leah Zhang,4077,EUR
+S0161,ChocoHub #161,CN,SH,Shanghai,Online,Isha Nowak,3809,CNY
+S0162,Cupid Outlet #162,BR,MG,Rio de Janeiro,Online,Aarav Zhang,7994,BRL
+S0163,Venus Boutique #163,PL,SL,Katowice,Retail,Milan Rossi,1902,PLN
+S0164,Cupid Outlet #164,CN,SH,Guangzhou,Online,Sofía Schmidt,1109,CNY
+S0165,Venus Boutique #165,MX,CMX,Guadalajara,Online,Noah Wang,2271,MXN
+S0166,Sweet Spot #166,IT,TOS,Milan,Online,Olivia Williams,6938,EUR
+S0167,ChocoHub #167,BR,SP,Rio de Janeiro,Online,Leah Bakker,5881,BRL
+S0168,Sweet Spot #168,SE,STH,Stockholm,Online,Amir Jansen,1575,SEK
+S0169,Sweet Spot #169,ES,AN,Barcelona,Retail,Emma Wang,3477,EUR
+S0170,Cupid Outlet #170,NL,Noord-Holland,Rotterdam,Online,Santiago Fernández,2979,EUR
+S0171,Apollo Shop #171,ZA,KZN,Cape Town,Online,Noa Müller,7052,ZAR
+S0172,Apollo Shop #172,GB,WLS,Cardiff,Online,Aarav Suzuki,7073,GBP
+S0173,Eros Corner #173,MX,NLE,Guadalajara,Online,Leah Brown,6170,MXN
+S0174,Cupid Outlet #174,SE,VGR,Stockholm,Retail,Aarav Romano,5323,SEK
+S0175,ChocoHub #175,DK,H,Aarhus,Online,Yui Kowalski,1319,DKK
+S0176,ChocoHub #176,FR,NAQ,Bordeaux,Retail,Amir Suzuki,4760,EUR
+S0177,Venus Boutique #177,BR,MG,São Paulo,Online,Leah García,3040,BRL
+S0178,ChocoHub #178,IT,LAZ,Rome,Retail,Chloé De Vries,6883,EUR
+S0179,Cupid Outlet #179,SE,STH,Gothenburg,Retail,Sofía Schmidt,2427,SEK
+S0180,ChocoHub #180,SG,SG,Singapore,Online,Mei Jansen,4518,SGD
+S0181,Venus Boutique #181,FR,IDF,Marseille,Retail,Aarav Lefevre,838,EUR
+S0182,Eros Corner #182,ZA,GP,Johannesburg,Retail,Mei Santos,7253,ZAR
+S0183,ChocoHub #183,AU,VIC,Sydney,Retail,Mateo Santos,6921,AUD
+S0184,Eros Corner #184,DK,M,Aarhus,Online,Noah Schmidt,3946,DKK
+S0185,Sweet Spot #185,IN,KA,Delhi,Retail,Leah García,2852,INR
+S0186,Apollo Shop #186,SE,VGR,Gothenburg,Retail,Noa Suzuki,1420,SEK
+S0187,ChocoHub #187,BR,RJ,Rio de Janeiro,Online,Yui Rossi,5716,BRL
+S0188,Sweet Spot #188,US,WA,Seattle,Online,Amir García,6692,USD
+S0189,Cupid Outlet #189,GB,WLS,Cardiff,Retail,Chloé Jansen,2318,GBP
+S0190,Apollo Shop #190,MX,NLE,Monterrey,Online,Noah Wang,1958,MXN
+S0191,Sweet Spot #191,DE,NW,Cologne,Retail,Lucas Smith,1875,EUR
+S0192,Cupid Outlet #192,ES,CT,Madrid,Retail,Yui Kowalski,2698,EUR
+S0193,ChocoHub #193,IN,KA,Bengaluru,Retail,Mateo Müller,804,INR
+S0194,Eros Corner #194,DE,NW,Frankfurt,Online,Sofía De Vries,6703,EUR
+S0195,ChocoHub #195,SE,VGR,Gothenburg,Retail,Yui Lefevre,5514,SEK
+S0196,Apollo Shop #196,AU,VIC,Brisbane,Online,Zoë Zhang,605,AUD
+S0197,Eros Corner #197,NL,Zuid-Holland,Rotterdam,Online,Wei Zhang,4515,EUR
+S0198,Eros Corner #198,AU,VIC,Sydney,Online,Aarav Silva,7793,AUD
+S0199,Apollo Shop #199,MX,CMX,Monterrey,Online,Liam Dubois,5511,MXN
+S0200,Cupid Outlet #200,PL,SL,Katowice,Retail,Liam Johnson,7745,PLN

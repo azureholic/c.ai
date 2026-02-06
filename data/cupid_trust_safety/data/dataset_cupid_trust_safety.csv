@@ -1,0 +1,101 @@
+message_id,message_text,toxicity_score,category,language_code,moderation_action
+MSG00001,This product is amazing! I love the quality and the fast shipping.,0.0,safe,en,allow
+MSG00002,¿Puedes enviarme información sobre este producto?,0.0,safe,es,allow
+MSG00003,"Ce produit semble être une arnaque, ne l'achetez pas!",0.5,scam,fr,block
+MSG00004,"This is a great gift for Valentine's Day, highly recommend!",0.0,safe,en,allow
+MSG00005,"Ich liebe diese Schokolade, sie ist köstlich!",0.0,safe,de,allow
+MSG00006,素晴らしい商品ですね。とても満足しています。,0.0,safe,ja,allow
+MSG00007,This content is inappropriate and should be removed immediately.,0.44,adult,en,block
+MSG00008,"Goed product, maar de levering duurde lang.",0.0,safe,nl,allow
+MSG00009,"Produto excelente, recomendo a todos!",0.0,safe,pt,allow
+MSG00010,"Este producto es basura, no lo compren nunca más!",0.6,harassment,es,block
+MSG00011,Envoyez-moi de l'argent ou je révèle vos secrets!,0.36,scam,fr,review
+MSG00012,"Amazing customer service, very helpful!",0.0,safe,en,allow
+MSG00013,"Esta página web es un timo total, pierden el tiempo aquí.",0.5,scam,es,block
+MSG00014,"Me encanta este regalo, perfecto para mi pareja.",0.0,safe,es,allow
+MSG00015,Das ist ein tolles Geschenk für den Valentinstag!,0.0,safe,de,allow
+MSG00016,"Dit lijkt een scam website te zijn, pas op!",0.53,scam,nl,block
+MSG00017,This is the best Valentine's gift I've ever received!,0.0,safe,en,allow
+MSG00018,"Produto de ótima qualidade, entrega rápida.",0.0,safe,pt,allow
+MSG00019,"Ce parfum sent délicieux, je l'adore!",0.0,safe,fr,allow
+MSG00020,"Très belle bijouterie, parfaite pour offrir.",0.0,safe,fr,allow
+MSG00021,この商品は素晴らしいです、満足しています。,0.0,safe,ja,allow
+MSG00022,"Goede service, maar prijzen zijn een beetje hoog.",0.0,safe,nl,allow
+MSG00023,"Este chocolate é delicioso, recomendo!",0.0,safe,pt,allow
+MSG00024,"Schöne Blumen, aber die Lieferung war zu langsam.",0.0,safe,de,allow
+MSG00025,"Me gusta mucho este producto, buena calidad.",0.0,safe,es,allow
+MSG00026,"J'adore ces roses, elles sont magnifiques!",0.0,safe,fr,allow
+MSG00027,Este conjunto de joias é perfeito para casais.,0.0,safe,pt,allow
+MSG00028,"Das Essen war fantastisch, danke für die Empfehlung!",0.0,safe,de,allow
+MSG00029,This is unacceptable content that violates community guidelines.,0.0,safe,en,allow
+MSG00030,このスパ体験は最高でした、とてもリラックスできました。,0.32,spam,ja,review
+MSG00031,"Me encanta este perfume, huele increíble.",0.0,safe,es,allow
+MSG00032,このメッセージはスパムです、削除してください。,0.75,spam,ja,review
+MSG00033,"Great product, fast delivery, will buy again!",0.0,safe,en,allow
+MSG00034,"Prachtige sieraden, mijn partner was dolblij!",0.0,safe,nl,allow
+MSG00035,素晴らしい体験でした、また利用したいです。,0.0,safe,ja,allow
+MSG00036,"Esta web es una estafa, no compren aquí!",0.49,scam,es,block
+MSG00037,"Goede kwaliteit producten, tevreden klant.",0.0,safe,de,allow
+MSG00038,This post contains offensive language and should be moderated.,0.34,spam,en,review
+MSG00039,"Bon produit, livraison rapide.",0.0,safe,fr,allow
+MSG00040,"Me gusta este oso de peluche, es adorable.",0.0,safe,es,allow
+MSG00041,"Amazing Valentine's Day surprise, thank you!",0.0,safe,en,allow
+MSG00042,"Schöne Verpackung, aber der Inhalt war enttäuschend.",0.0,safe,de,allow
+MSG00043,この商品は偽物だと思います、注意してください。,0.26,spam,ja,review
+MSG00044,"Dit is beledigend taalgebruik, verwijder dit!",0.39,harassment,nl,allow
+MSG00045,"J'adore ce collier, il est parfait!",0.0,safe,fr,allow
+MSG00046,"This is spam content, please remove it.",0.0,safe,en,allow
+MSG00047,"Buen producto, pero el envío tardó mucho.",0.0,safe,es,allow
+MSG00048,"Ce site web semble suspect, faites attention.",0.0,safe,fr,allow
+MSG00049,"Este produto parece suspeito, não compre!",0.81,scam,pt,review
+MSG00050,Ich bin sehr zufrieden mit meinem Einkauf!,0.0,safe,de,allow
+MSG00051,"Your feedback is valuable to us, thank you!",0.0,safe,en,allow
+MSG00052,"Te amo este regalo, es perfecto!",0.0,safe,es,allow
+MSG00053,Le produit est arrivé rapidement et en bon état.,0.0,safe,fr,allow
+MSG00054,"Vous faites du bon travail, continuez comme ça!",0.0,safe,fr,allow
+MSG00055,このサービスは最悪です、もう使いません。,0.62,harassment,ja,block
+MSG00056,Je suis très déçu par la qualité de ce produit.,0.0,safe,nl,allow
+MSG00057,"Ótimo atendimento, recomendo!",0.42,safe,pt,allow
+MSG00058,"I will never shop here again, waste of money!",0.25,harassment,en,allow
+MSG00059,Este es el mejor regalo que he recibido.,0.0,safe,es,allow
+MSG00060,Merci beaucoup pour votre aide!,0.0,safe,fr,allow
+MSG00061,El servicio fue rápido y profesional.,0.29,safe,pt,allow
+MSG00062,Ich bin wirklich glücklich mit meinem Kauf.,0.0,safe,de,allow
+MSG00063,"Muito obrigado, adorei!",0.38,safe,pt,allow
+MSG00064,"This is a scam, do not trust this website!",0.01,spam,en,review
+MSG00065,"J'ai reçu un produit endommagé, très mécontent.",0.17,safe,en,allow
+MSG00066,"Excelente calidad, precio justo.",0.42,safe,ja,allow
+MSG00067,"Muito bom, recomendo a amigos.",0.27,safe,pt,allow
+MSG00068,Das war keine gute Erfahrung.,0.19,scam,pt,allow
+MSG00069,"Beware, this seller is dishonest!",0.53,scam,nl,block
+MSG00070,Maravilloso servicio al cliente.,0.0,safe,es,allow
+MSG00071,"Alles perfect, dank je wel!",0.12,safe,nl,allow
+MSG00072,Produto chegou atrasado.,0.15,safe,pt,allow
+MSG00073,Superbe expérience d'achat!,0.51,safe,fr,allow
+MSG00074,"You are the best, thank you so much!",0.03,scam,en,allow
+MSG00075,素晴らしいサービスをありがとうございます。,0.08,safe,ja,allow
+MSG00076,"Muy recomendable, volveré a comprar.",0.09,safe,es,allow
+MSG00077,Obrigado pela rápida entrega!,0.01,safe,pt,allow
+MSG00078,"Das Produkt ist genau das, was ich wollte.",0.52,safe,ja,allow
+MSG00079,"Goed product, snel bezorgd.",0.18,safe,nl,allow
+MSG00080,Ich bin mit meinem Kauf nicht zufrieden.,0.25,harassment,de,allow
+MSG00081,Este artículo supera mis expectativas.,0.37,adult,de,allow
+MSG00082,Muito satisfeito com a compra.,0.14,spam,pt,review
+MSG00083,El envío fue más rápido de lo esperado.,0.09,scam,en,allow
+MSG00084,Thank you for the wonderful service!,0.52,safe,pt,allow
+MSG00085,C'est un excellent produit!,0.0,safe,fr,allow
+MSG00086,"Sehr empfehlenswert, danke dafür!",0.27,harassment,nl,allow
+MSG00087,Adorei meu presente de namorada!,0.0,harassment,fr,allow
+MSG00088,"Perfect service, will buy again!",0.41,safe,nl,allow
+MSG00089,Gracias por todo!,0.3,safe,en,allow
+MSG00090,Muito bem embalado e protegido.,0.14,safe,pt,allow
+MSG00091,"Great experience, highly recommend!",0.48,safe,nl,allow
+MSG00092,良い商品をありがとうございました。,0.12,safe,ja,allow
+MSG00093,Parfait pour la Saint-Valentin!,0.08,safe,fr,allow
+MSG00094,"Tolles Produkt, sehr zufrieden.",0.07,safe,de,allow
+MSG00095,"Tudo perfeito, muito obrigado!",0.03,safe,nl,allow
+MSG00096,Très satisfait de mon achat.,0.33,safe,ja,allow
+MSG00097,No compraré aquí de nuevo!,0.41,scam,es,block
+MSG00098,"Decepcionante, no recomiendo.",0.2,scam,pt,allow
+MSG00099,El mejor servicio jamás!,0.62,spam,es,review
+MSG00100,本当にありがとうございました。,0.07,scam,ja,allow
